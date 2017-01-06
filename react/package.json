@@ -20,7 +20,6 @@
     "babel-preset-react": "^6.16.0",
     "compression-webpack-plugin": "^0.3.2",
     "webpack": "^1.13.2",
-    "webpack-dev-server": "^1.16.2",
-    "webpack-visualizer-plugin": "^0.1.5"
+    "webpack-dev-server": "^1.16.2"
   }
 }

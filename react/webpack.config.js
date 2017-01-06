@@ -4,6 +4,7 @@
 
 'use strict'
 const webpack = require('webpack')
+var CompressionPlugin = require("compression-webpack-plugin")
 
 module.exports = {
   entry: ['./index.js'],
