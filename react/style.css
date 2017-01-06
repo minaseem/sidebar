@@ -75,3 +75,7 @@ body {
     flex-direction: column-reverse;
     padding-left: 20px;
 }
+
+.header-text {
+    font-size: 2em;
+}

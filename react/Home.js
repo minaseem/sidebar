@@ -19,7 +19,7 @@ export default class Home extends Component {
             <div className="app">
                 <div className="header">
                     <SideNav />
-                    <span>React Nav Demo</span>
+                    <span className="header-text">React Nav Demo</span>
                 </div>
                 <div className="body">
                     Hello World
