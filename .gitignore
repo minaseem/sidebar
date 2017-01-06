@@ -1,6 +1,7 @@
-./react/node_modules
+/react/node_modules/
 ./react/.idea
 ./nav_vanilla/.idea
 ./nav_jquery/.idea
 .DS_Store
 .idea
+npm-debug.log
