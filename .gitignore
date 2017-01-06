@@ -2,3 +2,5 @@
 ./react/.idea
 ./nav_vanilla/.idea
 ./nav_jquery/.idea
+.DS_Store
+.idea
